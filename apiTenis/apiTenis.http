@@ -1,0 +1,6 @@
+@apiTenis_HostAddress = http://localhost:5065
+
+GET {{apiTenis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

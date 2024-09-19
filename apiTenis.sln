@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiTenis", "apiTenis\apiTenis.csproj", "{8F7CFE69-1E8E-4449-9F83-DC526DB03375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiTenis.Test", "apiTenis.Test\apiTenis.Test.csproj", "{178067C4-F805-472F-9C0D-2A38AC07FC7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7CFE69-1E8E-4449-9F83-DC526DB03375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7CFE69-1E8E-4449-9F83-DC526DB03375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7CFE69-1E8E-4449-9F83-DC526DB03375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7CFE69-1E8E-4449-9F83-DC526DB03375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178067C4-F805-472F-9C0D-2A38AC07FC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178067C4-F805-472F-9C0D-2A38AC07FC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178067C4-F805-472F-9C0D-2A38AC07FC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178067C4-F805-472F-9C0D-2A38AC07FC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67FDAF0A-56FC-41C3-9BCB-E4C5AEA996C5}
+	EndGlobalSection
+EndGlobal
